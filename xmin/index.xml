@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xmins on My New Hugo Site</title>
+    <link>https://example.org/xmin/</link>
+    <description>Recent content in Xmins on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2024 22:18:15 +0700</lastBuildDate>
+    <atom:link href="https://example.org/xmin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nosql</title>
+      <link>https://example.org/xmin/nosql/</link>
+      <pubDate>Thu, 25 Jul 2024 22:18:15 +0700</pubDate>
+      <guid>https://example.org/xmin/nosql/</guid>
+      <description>Data Fundamentals This material provides an overview of data fundamentals. It explains the definition of data and its various types, including structured, unstructured, and semi-structured data. The video also discusses common file formats for transferring data between systems and introduces relational and non-relational databases as data storage solutions. Relational databases are used for day-to-day business activities, while non-relational databases offer flexibility in handling diverse and unstructured data. Overall, the material emphasizes the importance of efficient data management and storage for effective analysis and decision-making.</description>
+    </item>
+  </channel>
+</rss>
